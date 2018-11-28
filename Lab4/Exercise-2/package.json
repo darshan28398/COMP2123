@@ -1,0 +1,15 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "Exersice2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sa": "^0.2.50",
+    "say": "^0.15.0"
+  }
+}
